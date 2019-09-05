@@ -1,0 +1,20 @@
+# Site settings
+author: Haim D
+title: 
+header-img: img/home-bg.png
+email: haim11293@aol.com
+copyright_name: Haim D
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  h-miiaah
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
