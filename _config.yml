@@ -1,11 +1,11 @@
 # Site settings
-author: Haim D
-title: 
+author: Haim
+title: Software Engineer In The Making
 header-img: img/home-bg.png
 email: haim11293@aol.com
-copyright_name: Haim D
+copyright_name: Haim
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineer In The Making
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  h-miiaah
